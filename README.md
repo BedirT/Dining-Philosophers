@@ -2,9 +2,9 @@
 My Presentation For OS class | Topic: Simulation for Dining Philosophers
 
 **Task:** Simulate the Dining Philosophers problem, demonstrate three cases, explain how did they happen:
-	1. Deadlock
-	2. Starvation
-	3. Without any problem
+1. Deadlock
+2. Starvation
+3. Without any problem
 
 ## Presentation
 Here I will attach my presentation. Nothing fancy :) but it worked proparly. I will include couple versions, I used Keynote so there might be couple probelms with other version:
